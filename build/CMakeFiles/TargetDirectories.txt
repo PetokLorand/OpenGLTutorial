@@ -1,4 +1,0 @@
-/home/lorand/Documents/learn_opengl/build/CMakeFiles/Debug.dir
-/home/lorand/Documents/learn_opengl/build/CMakeFiles/Release.dir
-/home/lorand/Documents/learn_opengl/build/CMakeFiles/edit_cache.dir
-/home/lorand/Documents/learn_opengl/build/CMakeFiles/rebuild_cache.dir
